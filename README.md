@@ -15,3 +15,13 @@
   </ul> 
 </li>
 </ul>
+
+# Key Actions
+- Designed and implemented Discrete Fourier Transform (DFT) and Fast Fourier Transform (FFT) algorithms to
+perform polynomial multiplication, leveraging a divide-and-conquer strategy.
+- Demonstrated the transition from naive O(n²) polynomial multiplication to the more efficient O(nlogn) FFT-
+based approach, documenting the process using LaTeX.
+- Constructed an Inverse FFT (IFFT) pipeline for reconstructing coefficient representations, ensuring numerical
+stability and accuracy in the transformation-reconstruction process.
+- Applied FFT to analyze and visualize a noisy signal, illustrating its effectiveness in transforming and identifying
+frequency components.
